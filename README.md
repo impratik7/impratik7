@@ -36,9 +36,9 @@ Python implementation of MapReduce jobs on Azure or AWS
 Implemented parking sensor using simple IoT devices such as Arduino Uno microcontroller along with Ultrasonic ranging module HC - SR04 and LED's.    
 
 ### What interests me:question::cyclone:
-```interests = [ 'Data analytics', 'Cloud computing', 'Web3.0', 'Machine learning', 'Saas'] ``` :grin:  
+```interests = ['Data analytics', 'Cloud computing', 'Web3.0', 'Machine learning', 'SaaS'] ``` :grin:  
 </br>
-```hobbies = [ 'Football ⚽:', 'Financial markets 💸:', 'Photography 📸:', 'News 📰'] ``` 
+```hobbies = ['Football ⚽', 'Financial markets 💸', 'Photography 📸', 'Current affairs 📰'] ``` 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
