@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Pratik Mali</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Engineer working in Big data domain"</h3>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impratik7&label=Profile%20views&color=0e75b6&style=flat" alt="impratik7" /> </p>
 
 [linkedin]: https://linkedin.com/in/pratikmali
