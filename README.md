@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impratik7&label=Profile%20views&color=0e75b6&style=flat" alt="impratik7" /> </p>
 
 [linkedin]: https://linkedin.com/in/pratikmali
-[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-Pratik%20Mali-blue?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
 <a href="https://twitter.com/impratikm7" target="blank"><img src="https://img.shields.io/twitter/follow/impratikm7?logo=twitter&style=for-the-badge" alt="impratik7" /></a>   
 
 - 💬 Interested in anything related to data and leveraging it using Cloud.
